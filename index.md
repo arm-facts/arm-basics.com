@@ -6,7 +6,7 @@ The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_
 
 This is a demonstration of the open source community responding to ARM's lies.
 
-## Five things to consider before designing a System-on-Chip (NatoBoram ver.)
+## Five things to consider before designing a System-on-Chip
 
 The instruction set architecture (ISA) is the foundation of all chip or System-on-Chip (SoC) products. It is therefore one of the most fundamental design choices you will make. If you are considering using a proprietary ISA, such as ARM, it is critical to understand the key factors you should consider as part of your go-to-market strategy.
 

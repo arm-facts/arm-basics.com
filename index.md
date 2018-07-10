@@ -22,9 +22,9 @@ The ARM instruction set architecture doesn't allow open-source developers to con
 
 Verification and validation of processor designs can consume 75% of total design time. Having it open source means volunteers can participate in the creation of your design by bringing their unique expertise in the field, for free. This reduces design costs.
 
-### Large, Supportive Ecosystem
+### Large, Supportive Community
 
-It is important an architecture is well supported by a global, mature ecosystem of partners offering a diverse range of software, services and design support. This guarantees market choice, product quality and an optimal time to market. ARM ecosystems have not yet reached this stage of development.
+It is important an architecture is well received by an active community, so it can help you port diverse range of software, services and designs to your processor architecture. This guarantees market choice, product quality and an optimal time to market. Proprietary ecosystems do not have this level of trust and openness.
 
 ### Security
 

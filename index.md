@@ -10,7 +10,7 @@ The instruction set architecture (ISA) is the foundation of all chip or System-o
 
 ### Cost
 
-Proprietary instruction set architectures, such as ARM, have a license fee and currently an ongoing royalty model that can cost tens of milions of dollars. Moreover, the cost of licensing an ARM ISA accounts for at least 1% of all your sales.
+Proprietary instruction set architectures, such as ARM, have a license fee and currently an ongoing royalty model that can cost tens of millions of dollars. Moreover, the cost of licensing an ARM ISA accounts for at least 1% of all your sales.
 
 ### Impossible to improve
 
@@ -26,7 +26,7 @@ It is important an architecture is well supported by a global, mature ecosystem 
 
 ### Security
 
-Cyberthreats mean that robust chip security cannot ever be optional. Proprietary products can be severly insecure, and because they can't benefit from years of scrutiny from open source developers and industry experts, [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) can happen to them. ARM doesn't concern security issues as the public expected. ARM did nothing about [ret2usr](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md#ret2usr-protection) prevention in a very long period( millions of ARM users are exposed to the massive exploitation) until a few security features( domain, PXN) were added into ARMv7. The 1st PXN implementation was done by PaX/Grsecurity, while the 1st [implementation of domain](https://grsecurity.net/recent_arm_security_improvements.php) by PaX's UDEREF. The funny part is ARM never credited them. RISC-V will have the chance to make things right in the begining and that's what security subgroup and security standing committee from RISC-V foundation has been trying to do.
+Cyberthreats mean that robust chip security cannot ever be optional. Proprietary products can be severely insecure, and because they can't benefit from years of scrutiny from open source developers and industry experts, [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) can happen to them. ARM doesn't concern security issues as the public expected. ARM did nothing about [ret2usr](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md#ret2usr-protection) prevention in a very long period( millions of ARM users are exposed to the massive exploitation) until a few security features( domain, PXN) were added into ARMv7. The 1st PXN implementation was done by PaX/Grsecurity, while the 1st [implementation of domain](https://grsecurity.net/recent_arm_security_improvements.php) by PaX's UDEREF. The funny part is ARM never credited them. RISC-V will have the chance to make things right in the beginning and that's what security subgroup and security standing committee from RISC-V foundation has been trying to do.
 
 Whether you are looking to create a chip from scratch or looking for a complete solution, take advantage of an architecture that is open-source and already tested by the community. Get started with RISC-V - The free and open RISC Instruction Set Architecture.
 

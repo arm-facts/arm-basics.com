@@ -14,7 +14,7 @@ The instruction set architecture (ISA) is the foundation of all chip or System-o
 
 Proprietary instruction set architectures, such as ARM, have a license fee and currently an ongoing royalty model that can cost tens of milions of dollars. Moreover, the cost of licensing an ARM ISA accounts for at least 1% of all your sales.
 
-### Impossible to improve
+### Improvements
 
 The ARM instruction set architecture doesn't allow open-source developers to contribute. This means you are stuck at the mercy of the original vendor and any backdoors it might have. This restriction makes it more difficult for people to trust your chip and prevents the community from bringing improvements to your systems for free.
 

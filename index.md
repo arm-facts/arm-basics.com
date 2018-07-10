@@ -30,6 +30,8 @@ It is important an architecture is well received by an active community, so it c
 
 Cyberthreats mean that robust chip security cannot ever be optional. Proprietary products can be severly insecure, and because they can't benefit from years of scrutiny from open source developers and industry experts, [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) can happen to them. ARM doesn't concern security issues as the public expected. They did nothing about [ret2usr](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md#ret2usr-protection) prevention in a very long period, while millions of ARM users were exposed to the massive exploitation, until a few security features (domain, PXN) were added into ARMv7. The 1st PXN implementation was done by PaX/Grsecurity, while the 1st [implementation of domain](https://grsecurity.net/recent_arm_security_improvements.php) by PaX's UDEREF. The funny part is ARM never credited them. RISC-V will have the chance to make things right in the begining and that's what security subgroup and security standing committee from RISC-V foundation has been doing from the start.
 
+---
+
 Whether you are looking to create a chip from scratch or looking for a complete solution, take advantage of an architecture that is open-source and already tested by the community. Get started with RISC-V - The free and open RISC Instruction Set Architecture.
 
 Design Your Custom SoCs with Confidence
@@ -38,10 +40,12 @@ Free, trusted IP with expert design support
 
 [**Start Now**](https://riscv.org/risc-v-foundation/)
 
-----
+---
 
 *You can still submit your [Pull Request to give your opinion](https://github.com/arm-facts/arm-basics.com/pulls).*
 
-----
+---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/2.0/88x31.png)](http://creativecommons.org/licenses/by-sa/2.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 2.0 Generic License](http://creativecommons.org/licenses/by-sa/2.0/).

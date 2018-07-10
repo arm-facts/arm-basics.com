@@ -2,8 +2,6 @@
 
 # ARM architecture : Understand the facts
 
-----
-
 ## Five things to consider before designing a System-on-Chip (NatoBoram ver.)
 
 The instruction set architecture (ISA) is the foundation of all chip or System-on-Chip (SoC) products. It is therefore one of the most fundamental design choices you will make. If you are considering using a proprietary ISA, such as ARM, it is critical to understand the key factors you should consider as part of your go-to-market strategy.

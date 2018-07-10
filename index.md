@@ -39,3 +39,7 @@ Free, trusted IP with expert design support
 ----
 
 *You can still submit your [Pull Request to give your opinion](https://github.com/arm-facts/arm-basics.com/pulls).*
+
+----
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.

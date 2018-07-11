@@ -6,13 +6,21 @@ The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_
 
 This is a demonstration of the open source community responding to ARM's lies.
 
-## Five things to consider before designing a System-on-Chip
+## Six things to consider before designing a System-on-Chip
 
 The instruction set architecture (ISA) is the foundation of all chip or System-on-Chip (SoC) products. It is therefore one of the most fundamental design choices you will make. If you are considering using a proprietary ISA, such as ARM, it is critical to understand the key factors you should consider as part of your go-to-market strategy.
 
 ### Cost
 
 Proprietary instruction set architectures, such as ARM, have a license fee and currently an ongoing royalty model that can cost tens of millions of dollars. Moreover, the cost of licensing an ARM ISA accounts for at least 1% of all your sales.
+
+ARM annual architectural license fee pays for complete design team for several RISC-V cores.
+
+### Fragmentation risk
+
+ARM fragments their own ISAs (ARM v6/7/8, Thumb 1, Thumb2, ThumbEE, Jazelle, ARM v8, v8-M, NVIC/VIC/GICv2/3/4, multiple hypervisor variants/..., DSP/NEON/VFP/SVE). 
+
+ARM doesn’t allow users to customize, forcing them to buy a second core, or more wisely, move to RISC-V.
 
 ### Improvements
 
@@ -22,9 +30,13 @@ The ARM instruction set architecture doesn't allow open-source developers to con
 
 Verification and validation of processor designs can consume 75% of total design time. Having it open source means volunteers can participate in the creation of your design by bringing their unique expertise in the field, for free. This reduces design costs.
 
+Extensions are optional, you can buy preverified cores. In fact, 8x fewer instructions and simpler privilege architecture means much simpler verification process.
+
 ### Large, Supportive Community
 
 It is important an architecture is well received by an active community, so it can help you port diverse range of software, services and designs to your processor architecture. This guarantees market choice, product quality and an optimal time to market. Proprietary ecosystems do not have this level of trust and openness.
+
+It's true RISC-V ecosystem weaker than ARM’s right now, but is growing much faster.
 
 ### Security
 

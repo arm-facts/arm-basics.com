@@ -2,7 +2,7 @@
 
 # ARM architecture : Understand the facts
 
-The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) campaing against [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) and [RISC-V](https://en.wikipedia.org/wiki/RISC-V) disguised as "facts". They created the website [riscv-basics.com](https://riscv-basics.com/) in order to discourage manufacturers from using RISC-V as their processor architectures.
+The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) campaing against [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) and [RISC-V](https://en.wikipedia.org/wiki/RISC-V) disguised as "facts". They created the website [riscv-basics.com](https://riscv-basics.com/) [\[ScreenShot\]](/assets/images/riscv-basics.com-screenshot.jpg) [\[Google Cache\]](https://webcache.googleusercontent.com/search?q=cache:https://riscv-basics.com/) in order to discourage manufacturers from using RISC-V as their processor architectures.
 
 This is a demonstration of the open source community responding to ARM's lies.
 

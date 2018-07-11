@@ -32,17 +32,17 @@ The ARM instruction set architecture doesn't allow open-source developers to con
 
 Verification and validation of processor designs can consume 75% of total design time. Having it open source means volunteers can participate in the creation of your design by bringing their unique expertise in the field, for free. This reduces design costs.
 
-Extensions are optional, you can buy preverified cores. In fact, 8x fewer instructions and simpler privilege architecture means much simpler verification process.
+Extensions are optional, you can buy preverified cores. In fact, 8x fewer instructions and simpler privilege architecture results in a much simpler verification process.
 
 ### Large, Supportive Community
 
-It is important an architecture is well received by an active community, so it can help you port diverse range of software, services and designs to your processor architecture. This guarantees market choice, product quality and an optimal time to market. Proprietary ecosystems do not have this level of trust and openness.
+It is important an architecture is well received by an active community, so it can help you port a more diverse range of software, services and designs to your processor architecture. This guarantees market choice, product quality and an optimal time to market. Proprietary ecosystems do not have this level of trust and openness.
 
-It's true RISC-V ecosystem weaker than ARM’s right now, but is growing much faster.
+It's true RISC-V ecosystem is weaker than ARM’s right now, but it is growing much faster.
 
 ### Security
 
-Cyberthreats mean that robust chip security cannot ever be optional. Proprietary products can be severely insecure, and because they can't benefit from years of scrutiny from open source developers and industry experts, [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) can happen to them. ARM doesn't concern security issues as the public expected. They did nothing about [ret2usr](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md#ret2usr-protection) prevention in a very long period, while millions of ARM users were exposed to the massive exploitation, until a few security features (domain, PXN) were added into ARMv7. The 1st PXN implementation was done by PaX/Grsecurity, while the 1st [implementation of domain](https://grsecurity.net/recent_arm_security_improvements.php) by PaX's UDEREF. The funny part is ARM never credited them. RISC-V will have the chance to make things right in the beginning and that's what security subgroup and security standing committee from RISC-V foundation has been doing from the start.
+Cyberthreats mean that robust chip security cannot ever be optional. Proprietary products can be severely insecure, and because they can't benefit from years of scrutiny from open source developers and industry experts, [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)) and [Meltdown](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)) can happen to them. ARM doesn't concern itself with security issues as the public expects. They ignored [ret2usr](https://github.com/hardenedlinux/grsecurity-101-tutorials/blob/master/kernel_mitigation.md#ret2usr-protection) for a very long period of time, while millions of ARM users were exposed to the massive exploit, until a few security features (domain, PXN) were added into ARMv7. The 1st PXN implementation was done by PaX/Grsecurity, while the 1st [implementation of domain](https://grsecurity.net/recent_arm_security_improvements.php) was done by PaX's UDEREF. To date, ARM has yet to credit them. RISC-V will have the chance to make things right in the beginning and that's what security subgroups and security standing committees from the RISC-V foundation have been doing from the start.
 
 ---
 

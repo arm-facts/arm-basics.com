@@ -2,7 +2,7 @@
 
 # ARM architecture : Understand the facts
 
-The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) campaing against [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) and [RISC-V](https://en.wikipedia.org/wiki/RISC-V) disguised as "facts". They created the website [riscv-basics.com](https://riscv-basics.com/) [\[ScreenShot\]](/assets/images/riscv-basics.com-screenshot.jpg) [\[Google Cache\]](https://webcache.googleusercontent.com/search?q=cache:https://riscv-basics.com/) in order to discourage manufacturers from using RISC-V as their processor architectures.
+The 9th of July, 2018, ARM launched a [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt) campaing against [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software#FLOSS) and [RISC-V](https://en.wikipedia.org/wiki/RISC-V) disguised as "facts". They created the website [riscv-basics.com](https://riscv-basics.com/) [\[ScreenShot\]](/assets/images/riscv-basics.com-screenshot.jpg) [\[Google Cache\]](https://webcache.googleusercontent.com/search?q=cache:https://riscv-basics.com/) [\[Wayback Machine\]](https://web.archive.org/web/20180708231736/https://riscv-basics.com/) in order to discourage manufacturers from using RISC-V as their processor architectures.
 
 Update: The riscv-basics.com site was taken down [by ARM on the 10th of July](https://www.theregister.co.uk/2018/07/10/arm_riscv_website/).
 

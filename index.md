@@ -54,6 +54,8 @@ Free, trusted IP with expert design support
 
 ---
 
+**Disclaimer: this website is the personal opinion and is not the opinion or policy of any organization.**
+
 *You can still submit your [Pull Request to give your opinion](https://github.com/arm-facts/arm-basics.com/pulls).*
 
 ---

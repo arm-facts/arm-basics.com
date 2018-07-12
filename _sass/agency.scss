@@ -8,7 +8,7 @@ body {
     font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
     font-size: 20px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .text-muted {
@@ -103,8 +103,11 @@ h1, h2, h3, h4, h5, h6 {
 // Custom Navigation Bar
 
 .navbar-custom {
-    background-color: $gray-darker;
+    background-color: white;
     border-color: transparent;
+    font-weight: 800;
+    color: black;
+    text-shadow: 0 0 1px #fff, 0 0 2px #fff;
     .navbar-brand {
         color: $theme-primary;
         @include script-font;
@@ -180,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media(min-width:768px) {
     .navbar-custom.affix {
-        background-color: $gray-darker;
+        background-color: white;
         padding: 10px 0;
         .navbar-brand {
             font-size: 1.5em;
